@@ -1,2 +1,2 @@
 # oakCalendar
-Angular Calendar
+General Purpose calendar written in Angular
